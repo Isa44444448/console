@@ -1,2 +1,2 @@
-# console
-delame ruzne aplikasy a tagdalyje na android a windows
+console
+My Locker toje aplikase pro davani hesel na aplikasy jako geme protector
